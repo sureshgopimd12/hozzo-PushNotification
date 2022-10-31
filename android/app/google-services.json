@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "405008592587",
+    "project_id": "hozzo-a5fdc",
+    "storage_bucket": "hozzo-a5fdc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405008592587:android:8cb75f8bf31c0d103c354e",
+        "android_client_info": {
+          "package_name": "com.d5ndigital.hozzo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405008592587-c9ebdaihut69ie0bqgliv7pbr22r0mr5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVLc4peoqCtu5awWfX8jsUYAmmGHWewZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405008592587-c9ebdaihut69ie0bqgliv7pbr22r0mr5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

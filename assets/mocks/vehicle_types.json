@@ -1,0 +1,38 @@
+[
+   {
+      "name": "Hatch Back",
+      "image": {
+         "url": "assets/mocks/vehicle_types/hatch_back.png"
+      }
+   },
+   {
+      "name": "Sedan",
+      "image": {
+         "url": "assets/mocks/vehicle_types/sedan.png"
+      }
+   },
+   {
+      "name": "SUV",
+      "image": {
+         "url": "assets/mocks/vehicle_types/suv.png"
+      }
+   },
+   {
+      "name": "4x4",
+      "image": {
+         "url": "assets/mocks/vehicle_types/4x4.png"
+      }
+   },
+   {
+      "name": "Crossover",
+      "image": {
+         "url": "assets/mocks/vehicle_types/crossover.png"
+      }
+   },
+   {
+      "name": "Two Wheeler",
+      "image": {
+         "url": "assets/mocks/vehicle_types/two_wheeler.png"
+      }
+   }
+]
